@@ -9,7 +9,7 @@
 
 ## Overview
 
-**Algorithmic Fairness 2.0** is an MSc thesis project in Information Design & Data Visualization at Northeastern University Vancouver (2026). It addresses a fundamental problem in digital life: YouTube's recommendation algorithm optimizes entirely for watch time rather than user wellbeing, silently trapping users in self-reinforcing echo chambers.
+**Algorithmic Fairness 2.0** is an MSc course project in Information Design & Data Visualization at Northeastern University Vancouver (2026). It addresses a fundamental problem in digital life: YouTube's recommendation algorithm optimizes entirely for watch time rather than user wellbeing, silently trapping users in self-reinforcing echo chambers.
 
 This project intervenes through a **12-day structured diary study** with four occupation-based personas, measuring whether structured self-reflection alone — without any technical tools, browser extensions, or platform setting changes — can produce measurable, lasting algorithmic empowerment.
 
@@ -180,16 +180,16 @@ YouTube's recommendation algorithm serves over 2 billion users daily, optimising
 
 **Rahul Kharel**
 MSc Information Design & Data Visualization
-Northeastern University Vancouver · Class of 2026
+Northeastern University Vancouver · Class of 2025
 
 ---
 
 ## License
 
-This project is submitted as an academic thesis. All content, visualizations, and data are original work by the author. Please cite appropriately if referencing this research.
+This project is submitted as an academic course project. All content, visualizations, and data are original work by the author. Please cite appropriately if referencing this research.
 
 ```
 Kharel, R. (2026). Algorithmic Fairness 2.0: Empowering Users to Recognize,
-Interrupt, and Reshape Recommendation Systems. MSc Thesis, Northeastern
+Interrupt, and Reshape Recommendation Systems. MSc Curse Project, Northeastern
 University Vancouver.
 ```
